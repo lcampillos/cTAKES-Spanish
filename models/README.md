@@ -17,4 +17,4 @@ Declare the POS model at `ctakes-4.0.0/desc/ctakes-pos-tagger/desc/POSTagger.xml
 
 `</nameValuePair>`
 
-Place the POS model at `org/apache/ctakes/postagger/models/`
+Place the POS model at `ctakes-4.0.0/resources/org/apache/ctakes/postagger/models/`
