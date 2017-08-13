@@ -23,6 +23,8 @@ Declare the POS model at `ctakes-4.0.0/desc/ctakes-pos-tagger/desc/POSTagger.xml
 
 `</nameValuePair>`
 
+Place the model at `org/apache/ctakes/postagger/models/`
+
 ## lib
 Includes the file `ctakes-gui-4.0.0.jar` for the cTAKES Dictionary Creator adapted to extract a customized dictionary of Spanish terms from the UMLS.
 
